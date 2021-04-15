@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include "funcs.h"
 
-void goo(void)
+int goo(void)
 {
 	printf("goo\n");
+
+	return 1;
 }
 
