@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	foo();
+	foo(1);
 	goo();
 }
